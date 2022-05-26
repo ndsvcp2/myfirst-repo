@@ -1,2 +1,3 @@
-second-file
-line added from local-desktop
+this is foo file
+new second file
+buddy file
