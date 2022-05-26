@@ -1,2 +1,1 @@
-second-file
-line added from local-desktop
+this is correct content for file2
