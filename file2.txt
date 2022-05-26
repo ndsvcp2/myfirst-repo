@@ -1,3 +1,1 @@
-this is foo file
-new second file
-buddy file
+this is correct content for file2
